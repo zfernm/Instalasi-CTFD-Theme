@@ -41,6 +41,10 @@ Terakhir, jalankan skrip untuk memulai instalasi theme CTFd:
 ./Instal_CTFD_Themes.sh
 ```
 
+### OUTPUT
+![SCREENSHOOT OUTPUT](<Screenshot Output Instalasi CTFD Theme.png>)
+
+
 ## 🔥 Fitur Skrip
 - Menampilkan banner keren sebelum instalasi.
 - Memungkinkan pengguna memilih theme yang ingin diinstal atau menginstal semua theme sekaligus.
